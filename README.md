@@ -1,33 +1,30 @@
-# Website
+# Tutors Docusaurus 
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+Clone the Repo:
 
-### Installation
+~~~
+git clone git@github.com:BenCapper/docusaurus.git
+~~~
 
-```
-$ yarn
-```
+Edit the files in the docs folder, then, in git bash, rebuild with:
 
-### Local Development
+~~~
+npx run build
+~~~
 
-```
-$ yarn start
-```
+Go to Netlify -> Sites, then drag the build folder into the box
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+**or**
 
-### Build
+Create a Git repo then upload the docusaurus folder to the new repo
 
-```
-$ yarn build
-```
+Next, go to Netlify and select New site from Git, choose the repo you just created
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+In Basic build settings:
 
-### Deployment
+~~~
+Build command: yarn build
+Publish directory: build
+~~~
 
-```
-$ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Select Deploy site, after a short time the site should be live

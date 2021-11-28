@@ -11,3 +11,5 @@ icon:
 # Simple Starter Course
 
 Basic starter course with three simple topics
+
+https://github.com/tutors-sdk/tutors-starter

@@ -11,3 +11,5 @@ icon:
 # Reader
 
 The Tutors Front-end Application
+
+https://github.com/tutors-sdk/tutors-next

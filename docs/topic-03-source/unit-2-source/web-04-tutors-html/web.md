@@ -11,3 +11,5 @@ icon:
 # HTML Generator
 
 Convert tutors course to static HTML site
+
+https://github.com/tutors-sdk/tutors-html

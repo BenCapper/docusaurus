@@ -11,3 +11,5 @@ icon:
 # JSON Generator
 
 Convert tutors course to JSON repository
+
+https://github.com/tutors-sdk/tutors-json

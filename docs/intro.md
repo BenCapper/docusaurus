@@ -1,99 +1,100 @@
 ---
 sidebar_position: 1
 ---
+# Tutors Documentation
 
-# Create
+## Create
 Creating, editing, and publishing a course
 
-### Setup
+#### Setup
 Create and publish a Tutors course
 
-### Files and Folders
+#### Files and Folders
 Explore the elements of a Tutors course
 
-### Images and Icons
+#### Images and Icons
 Incorporating images and icons into a course
 
-### Videos
+#### Videos
 Incorporating Videos into a course
 
-### Course Properties
+#### Course Properties
 The properties.yaml file
 
-### Labs I
+#### Labs I
 All things Labs I
 
-### Labs II
+#### Labs II
 All things Labs II
 
-### Git Workflow
+#### Git Workflow
 Learn how to integrate GitHub into your Tutors course
 
-# Design
+## Design
 Explore the Design of Tutors
 
-### Colour Scheme
+#### Colour Scheme
 Looking at current colours and beginning to shape a new colour scheme
 
-### New Icons Research
+#### New Icons Research
 .Pdf with new icon suggestions using Park icons
 
-### Sample Course I
+#### Sample Course I
 Test site showing 'Icon Park' icons
 
-### Sample Course II
+#### Sample Course II
 Test site showing 'Remix' icons
 
-### Branding Modules
+#### Branding Modules
 Adding colour
 
-# Accessibility
+## Accessibility
 What does it mean and why it's important
 
-### Intro to Accessibility
+#### Intro to Accessibility
 One size does not fit all
 
-### Improving Usability
+#### Improving Usability
 Aim to provide the same user experience for all
 
-### First Steps
+#### First Steps
 Simple fixes that can be made now
 
-### Useful Links
+#### Useful Links
 .Zip file containing additional supporting websites
 
-### Websites
+#### Websites
 A supporting website
 
-### Refining Colours
+#### Refining Colours
 Deeper dive into colour schemes. Refining for accessibility
 
-# Source
+## Source
 Sample Courses and the Tutors Open Source Project
 
-### All Topics
+#### All Topics
 A template with at least onme of each topic type as examples
 
-### Tutors Docs Starter Course
+#### Tutors Docs Starter Course
 The course template provided at step 1 of this tutorial
 
-### Simple Starter Course
+#### Simple Starter Course
 Basic starter course with three simple topics
 
-### Kitchen Sink
+#### Kitchen Sink
 Larger course demonstrating the range of features
 
-### Reader
+#### Reader
 The Tutors Front-End Application
 
-### Lib
+#### Lib
 Tutors Information Model Parser
 
-### JSON Generator
+#### JSON Generator
 Convert a Tutors course to a JSON repository
 
-### HTML Generator
+#### HTML Generator
 Convert a Tutors course to a static HTML site
 
-### Tutors Monorepo
+#### Tutors Monorepo
 Monorepo for tutors-lib, tutors-json, and tutors-html
